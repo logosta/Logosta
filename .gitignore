@@ -52,3 +52,4 @@ logs/*
 saves/*
 options.txt
 usernamecache.json
+crash-reports/*
