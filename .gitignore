@@ -41,3 +41,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#Cusom mod pack ignores.
+.curseclient
+asm/*
+BotaniaVars.dat
+instance.json
+journeymap/*
+logs/*
+saves/*
+options.txt
+usernamecache.json
