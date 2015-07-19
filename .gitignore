@@ -53,3 +53,4 @@ saves/*
 options.txt
 usernamecache.json
 crash-reports/*
+servers.dat
